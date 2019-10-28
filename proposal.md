@@ -21,7 +21,7 @@ SCOREC-core is a combination of RPI's research tools to create a finite element 
 | Typical commit size | 1-100 insertions/1-5 files modified  |
 | How does the project accept contributions? | pull requests   |
 | Does the project have an automated test suite? | no |
-| Does the project use continuous integration? | no |
+| Does the project use continuous integration? | yes` |
 | Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
